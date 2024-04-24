@@ -21,7 +21,7 @@
   "author": "Florian Reiterer <me@florianreiterer.com>",
   "license": "ISC",
   "dependencies": {
-    "@gulp-sourcemaps/identity-map": "^2.0.1",
+    "@gulp-sourcemaps/identity-map": "DhrumilShahMobiquity/identity-map.git",
     "@gulp-sourcemaps/map-sources": "^1.0.0",
     "acorn": "^6.4.1",
     "convert-source-map": "^1.0.0",
